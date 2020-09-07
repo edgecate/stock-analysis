@@ -29,6 +29,6 @@
 ## Support
 Reach out to me at one of the following places!
 - Youtube: <a href="https://www.youtube.com/channel/UCKGGI595M_xVG5qR8X5VoKQ" target="_blank">`Edgecate`</a> for more Python tutorials and awesome content
-- Website: <a href="http://www.edgecate.com" target="_blank">`edgecate.com`</a>
+- Website: <a href="https://www.edgecate.com" target="_blank">`Edgecate.com`</a>
 - Facebook: <a href="https://www.facebook.com/edgecate" target="_blank">`facebook.com/edgecate`</a>
 - Reddit: <a href="https://www.reddit.com/user/edgecate" target="_blank">`u/edgecate`</a>
