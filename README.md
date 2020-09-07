@@ -1,6 +1,8 @@
 # Edgecate Stock Analysis - Jupyter Notebook
 > A bot that downloads information of ASX stock codes (price, company, financial, and ratios) into a spreadsheet using the YFinance API.
 
+![Recordit GIF](http://g.recordit.co/f1dth48yfj.gif)
+
 [![landing-pic](https://raw.githubusercontent.com/edgecate/stock-analysis/master/images/stock-analysis.jpg)](https://github.com/edgecate/stock-analysis)
 
 ## Installation
